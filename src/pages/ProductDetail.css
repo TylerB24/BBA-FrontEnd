@@ -1,0 +1,8 @@
+.detail-root{padding:2rem}
+.back-link{display:inline-block;margin-bottom:1rem;color:#333;text-decoration:none}
+.detail-grid{display:grid;grid-template-columns:1fr 1fr;gap:2rem;align-items:start}
+.gallery{display:flex;flex-direction:column;gap:.75rem}
+.detail-image{width:100%;height:auto;max-height:420px;object-fit:cover;border-radius:6px}
+.detail-info{padding:0}
+.detail-price{color:#2a9d8f;font-weight:700;font-size:1.25rem}
+.detail-desc{color:#333;margin-top:1rem}
